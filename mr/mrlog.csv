@@ -1,0 +1,1802 @@
+2019/05/31 19:49:36.578  ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
+2019/05/31 19:49:37.063  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.078  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.094  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.110  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.125  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.203  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.219  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.235  ,1:DFS->Mapper[seq],mID,1335^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.250  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.250  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.250  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.250  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.250  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.250  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.250  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.261  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.272  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.274  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.274  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.274  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.274  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.274  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.274  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.282  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.293  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.303  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.313  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.324  ,1:DFS->Mapper[seq],mID,1335^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.335  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.335  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.335  ,2:MapProcess,mID,1335^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.345  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.356  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.357  ,3:Part.+Seri.,mID,1335^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.357  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.366  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.376  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.386  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.397  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.407  ,1:DFS->Mapper[seq],mID,1335^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.417  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.419  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.420  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.420  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.420  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.420  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.427  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.420  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.441  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.452  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.463  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.473  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.485  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.496  ,1:DFS->Mapper[seq],mID,1335^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.499  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.499  ,4:SpillProc.,mID,1335^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:37.506  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.517  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.527  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.537  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.549  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.555  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.555  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.557  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.559  ,5:Merge Proc.,mID,852^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.559  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.558  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.558  ,5:Merge Proc.,mID,1686^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.577  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.588  ,1:DFS->Mapper[seq],mID,1335^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.599  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.610  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.620  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.628  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.630  ,5:Merge Proc.,mID,1335^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:37.646  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.661  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.677  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.692  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.708  ,1:DFS->Mapper[seq],mID,1335^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.723  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.739  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.723  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.755  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.739  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.770  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.755  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.786  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.770  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.802  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.786  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.817  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.802  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.833  ,1:DFS->Mapper[seq],mID,1335^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.817  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.848  ,1:DFS->Mapper[seq],mID,1019^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:37.833  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.848  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.864  ,1:DFS->Mapper[seq],mID,1686^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.864  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.880  ,1:DFS->Mapper[seq],mID,1433^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.880  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:37.880  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.880  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.880  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:37.880  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.880  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:37.880  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:37.895  ,1:DFS->Mapper[seq],mID,501^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.911  ,1:DFS->Mapper[seq],mID,852^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.927  ,1:DFS->Mapper[seq],mID,1784^0^0^0^0,comTime,1.024
+2019/05/31 19:49:37.942  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.942  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.944  ,1:DFS->Mapper[seq],mID,1829^0^0^0^0,comTime,0.704
+2019/05/31 19:49:37.949  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.949  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.965  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.965  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.970  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.971  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:37.980  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.980  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.980  ,2:MapProcess,mID,1335^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:37.980  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.001  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.002  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.009  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.009  ,3:Part.+Seri.,mID,1335^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.107  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.107  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.112  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.118  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.145  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.146  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.152  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.152  ,4:SpillProc.,mID,1335^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.236  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.236  ,5:Merge Proc.,mID,852^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.241  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.246  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.275  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.276  ,5:Merge Proc.,mID,1686^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.285  ,5:Merge Proc.,mID,1335^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.285  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.394  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.410  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.426  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.441  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:38.457  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.472  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.488  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.504  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.519  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.535  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:38.551  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:38.582  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.604  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.604  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.620  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.620  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.626  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.636  ,2:MapProcess,mID,1335^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.636  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.641  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.641  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.652  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.652  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:38.658  ,3:Part.+Seri.,mID,1335^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.658  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.675  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.675  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:38.747  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.770  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.784  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.784  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.800  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.800  ,4:SpillProc.,mID,1335^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.817  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.819  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:38.875  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.900  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.912  ,5:Merge Proc.,mID,852^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.914  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.928  ,5:Merge Proc.,mID,1335^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.928  ,5:Merge Proc.,mID,1686^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.945  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:38.949  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.028  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.059  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.074  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.090  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.106  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.121  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.153  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.137  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.160  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.153  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.153  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.162  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.162  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.161  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.164  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.164  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.164  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.170  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.165  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.165  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.174  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.173  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.171  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.176  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.176  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.174  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.178  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.177  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.177  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.182  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.182  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.182  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.180  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.182  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.182  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.182  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.196  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.195  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.191  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.198  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.197  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.196  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.199  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.198  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.204  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.208  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.208  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.209  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.209  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.210  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.210  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.212  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.212  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.213  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.220  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.215  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.222  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.223  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.225  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.230  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.262  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.282  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.284  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.300  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.304  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.308  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,10.2
+2019/05/31 19:49:39.308  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,10.2
+2019/05/31 19:49:39.308  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,10.2
+2019/05/31 19:49:39.308  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,10.2
+2019/05/31 19:49:39.308  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,10.2
+2019/05/31 19:49:39.308  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,10.2
+2019/05/31 19:49:39.312  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.322  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.324  ,2:MapProcess,mID,1335^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.331  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.333  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.337  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.346  ,3:Part.+Seri.,mID,1335^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.353  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.365  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.408  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,10.2
+2019/05/31 19:49:39.408  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,10.2
+2019/05/31 19:49:39.408  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,10.2
+2019/05/31 19:49:39.408  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,10.2
+2019/05/31 19:49:39.411  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.414  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.415  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.415  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.416  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.416  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.416  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.415  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.417  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.416  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.421  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.423  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.427  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.451  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.461  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.464  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.482  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.488  ,4:SpillProc.,mID,1335^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.493  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.496  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.510  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.510  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.512  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.516  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.516  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.516  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.516  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.524  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,11.056000000000001
+2019/05/31 19:49:39.556  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.579  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.593  ,5:Merge Proc.,mID,852^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.610  ,5:Merge Proc.,mID,1686^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.612  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.612  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.615  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.615  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.616  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.616  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.618  ,5:Merge Proc.,mID,1335^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.620  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.624  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.624  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.640  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,10.8
+2019/05/31 19:49:39.640  ,10: Finish at DFS:,Total Time Duration(sec),257.7
+2019/05/31 19:49:39.640  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,10.8
+2019/05/31 19:49:39.640  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,10.8
+2019/05/31 19:49:39.640  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,10.8
+2019/05/31 19:49:39.646  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.646  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,10.8
+2019/05/31 19:49:39.646  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,10.8
+2019/05/31 19:49:39.649  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.650  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.651  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.656  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.659  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.659  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.660  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.660  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.662  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.662  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.663  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.663  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.664  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.664  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.669  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.670  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.673  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.673  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.674  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.707  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.707  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.708  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.712  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.713  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.713  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.714  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.715  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.716  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.717  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.724  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.725  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.725  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,10.8
+2019/05/31 19:49:39.725  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.726  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.727  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.728  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.728  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.729  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.729  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.730  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.731  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.738  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.738  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.739  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.741  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,10.8
+2019/05/31 19:49:39.744  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.741  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.746  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.746  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,10.8
+2019/05/31 19:49:39.747  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,10.8
+2019/05/31 19:49:39.746  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.746  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.748  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.749  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.749  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.756  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.756  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.755  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.754  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.750  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.760  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,11.744
+2019/05/31 19:49:39.760  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,11.744
+2019/05/31 19:49:39.760  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.759  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,11.744
+2019/05/31 19:49:39.758  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.757  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.756  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.764  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,11.744
+2019/05/31 19:49:39.763  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.762  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.761  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,11.744
+2019/05/31 19:49:39.773  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.772  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.770  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.769  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,11.744
+2019/05/31 19:49:39.776  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.775  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.775  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.775  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:39.774  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.780  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.778  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.776  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.790  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.789  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.788  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.785  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:39.795  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.795  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.789  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.797  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.797  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:39.796  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.799  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.798  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.798  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.806  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.805  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.800  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:39.809  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.808  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.812  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.812  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.811  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:39.810  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.813  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.813  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.823  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.808  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.824  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.823  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.822  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.816  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:39.830  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.828  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.832  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.831  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.831  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:39.830  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.833  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.832  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.824  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.840  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.834  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.834  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.833  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:39.843  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.844  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:39.844  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:39.842  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.842  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.845  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:39.844  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.843  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,11.744
+2019/05/31 19:49:39.847  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:39.846  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.857  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.857  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.856  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.855  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.854  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:39.864  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,11.744
+2019/05/31 19:49:39.849  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.864  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,11.744
+2019/05/31 19:49:39.864  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.860  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.858  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,11.744
+2019/05/31 19:49:39.858  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.846  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:39.867  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.866  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.873  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.873  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:39.877  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.880  ,10: Finish at DFS:,Total Time Duration(sec),281.7
+2019/05/31 19:49:39.877  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.879  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:39.879  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.882  ,10: Finish at DFS:,Total Time Duration(sec),281.9
+2019/05/31 19:49:39.881  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.880  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.881  ,10: Finish at DFS:,Total Time Duration(sec),281.8
+2019/05/31 19:49:39.891  ,10: Finish at DFS:,Total Time Duration(sec),282.8
+2019/05/31 19:49:39.890  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.890  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.887  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.882  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:39.895  ,10: Finish at DFS:,Total Time Duration(sec),283.2
+2019/05/31 19:49:39.894  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.892  ,10: Finish at DFS:,Total Time Duration(sec),282.9
+2019/05/31 19:49:39.891  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.905  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.901  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:39.913  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:39.913  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:39.914  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:39.941  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:39.951  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:39.962  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:39.973  ,10: Finish at DFS:,Total Time Duration(sec),291.0
+2019/05/31 19:49:39.981  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,11.4
+2019/05/31 19:49:39.982  ,10: Finish at DFS:,Total Time Duration(sec),291.9
+2019/05/31 19:49:39.983  ,10: Finish at DFS:,Total Time Duration(sec),292.0
+2019/05/31 19:49:39.991  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,11.4
+2019/05/31 19:49:39.988  ,10: Finish at DFS:,Total Time Duration(sec),292.5
+2019/05/31 19:49:39.993  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,11.4
+2019/05/31 19:49:39.992  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,11.4
+2019/05/31 19:49:39.997  ,2:MapProcess,mID,1335^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.006  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,11.4
+2019/05/31 19:49:40.009  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.011  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,11.4
+2019/05/31 19:49:40.012  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.012  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.014  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.019  ,3:Part.+Seri.,mID,1335^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.023  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.035  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.035  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.044  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.074  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,11.4
+2019/05/31 19:49:40.080  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.090  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,11.4
+2019/05/31 19:49:40.096  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.096  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,11.4
+2019/05/31 19:49:40.096  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,12.44
+2019/05/31 19:49:40.098  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,11.4
+2019/05/31 19:49:40.105  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.109  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.111  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.111  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,12.44
+2019/05/31 19:49:40.112  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.111  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,12.44
+2019/05/31 19:49:40.113  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,12.44
+2019/05/31 19:49:40.120  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.120  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,12.44
+2019/05/31 19:49:40.125  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.125  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,12.44
+2019/05/31 19:49:40.138  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.165  ,4:SpillProc.,mID,1335^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.177  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.177  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.178  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.178  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.178  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.179  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.179  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.180  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.181  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.181  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.182  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.182  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.186  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.189  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.186  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.191  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,12.44
+2019/05/31 19:49:40.191  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.192  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.193  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.193  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.194  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.199  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.200  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.201  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.204  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.205  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.207  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,12.44
+2019/05/31 19:49:40.211  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.211  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,12.44
+2019/05/31 19:49:40.220  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.220  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,12.44
+2019/05/31 19:49:40.228  ,10: Finish at DFS:,Total Time Duration(sec),316.5
+2019/05/31 19:49:40.230  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.233  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.233  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.234  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.238  ,10: Finish at DFS:,Total Time Duration(sec),317.5
+2019/05/31 19:49:40.237  ,10: Finish at DFS:,Total Time Duration(sec),317.4
+2019/05/31 19:49:40.237  ,10: Finish at DFS:,Total Time Duration(sec),317.4
+2019/05/31 19:49:40.236  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.238  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.246  ,10: Finish at DFS:,Total Time Duration(sec),318.3
+2019/05/31 19:49:40.247  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.250  ,10: Finish at DFS:,Total Time Duration(sec),318.7
+2019/05/31 19:49:40.256  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.257  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.258  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.260  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.264  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.264  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.265  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.265  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.266  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.266  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.267  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.270  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.273  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.277  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.288  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.289  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.290  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.290  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.291  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.292  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.293  ,5:Merge Proc.,mID,1335^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.293  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.297  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.298  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.298  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.299  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.300  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.301  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.305  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.305  ,5:Merge Proc.,mID,852^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.307  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.305  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.311  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.311  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.312  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.313  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.313  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.314  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.318  ,5:Merge Proc.,mID,1686^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.316  ,10: Finish at DFS:,Total Time Duration(sec),325.3
+2019/05/31 19:49:40.330  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,12.1
+2019/05/31 19:49:40.331  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.335  ,10: Finish at DFS:,Total Time Duration(sec),327.2
+2019/05/31 19:49:40.336  ,10: Finish at DFS:,Total Time Duration(sec),327.3
+2019/05/31 19:49:40.343  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,12.1
+2019/05/31 19:49:40.345  ,10: Finish at DFS:,Total Time Duration(sec),328.2
+2019/05/31 19:49:40.345  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,12.1
+2019/05/31 19:49:40.345  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,12.1
+2019/05/31 19:49:40.349  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,12.1
+2019/05/31 19:49:40.357  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,12.1
+2019/05/31 19:49:40.377  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.397  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.397  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.398  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.399  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.404  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.405  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.406  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.407  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.412  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.413  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.413  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.414  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.414  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.415  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.416  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.416  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.417  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.425  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,12.0
+2019/05/31 19:49:40.420  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.425  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.427  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.427  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.428  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.441  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,12.0
+2019/05/31 19:49:40.445  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,12.0
+2019/05/31 19:49:40.447  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,12.0
+2019/05/31 19:49:40.448  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.448  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.449  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.451  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.452  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.460  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.459  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.460  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,13.128
+2019/05/31 19:49:40.461  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.460  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.461  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.462  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.462  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.464  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.463  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.463  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.465  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.466  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.466  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.466  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.475  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.474  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.472  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.471  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.469  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.468  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.466  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.479  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.479  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,13.128
+2019/05/31 19:49:40.478  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.477  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.476  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,13.128
+2019/05/31 19:49:40.476  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,13.128
+2019/05/31 19:49:40.475  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.491  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.488  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.480  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,13.128
+2019/05/31 19:49:40.480  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.479  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,13.128
+2019/05/31 19:49:40.493  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.493  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.492  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.501  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.497  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.507  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.506  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.511  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.512  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.512  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.513  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.513  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.513  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.513  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.514  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.514  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.520  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.515  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.523  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.524  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.523  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.523  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.524  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.525  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.524  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.526  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.524  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.526  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.525  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.526  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.526  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.526  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.527  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.526  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.527  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.527  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.532  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.529  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.528  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.536  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.533  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.532  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.538  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.538  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.539  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.539  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.541  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.545  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.545  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.546  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.546  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.546  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.547  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,13.128
+2019/05/31 19:49:40.547  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.547  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.547  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.549  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.550  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.558  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.559  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.561  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.561  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,13.128
+2019/05/31 19:49:40.565  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.565  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,13.128
+2019/05/31 19:49:40.567  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.573  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,13.128
+2019/05/31 19:49:40.592  ,10: Finish at DFS:,Total Time Duration(sec),352.9
+2019/05/31 19:49:40.592  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.605  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.612  ,10: Finish at DFS:,Total Time Duration(sec),354.9
+2019/05/31 19:49:40.622  ,10: Finish at DFS:,Total Time Duration(sec),355.9
+2019/05/31 19:49:40.623  ,10: Finish at DFS:,Total Time Duration(sec),356.0
+2019/05/31 19:49:40.625  ,10: Finish at DFS:,Total Time Duration(sec),356.2
+2019/05/31 19:49:40.632  ,10: Finish at DFS:,Total Time Duration(sec),356.9
+2019/05/31 19:49:40.638  ,2:MapProcess,mID,1335^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.649  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.659  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.660  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.661  ,3:Part.+Seri.,mID,1335^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.671  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.678  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.680  ,10: Finish at DFS:,Total Time Duration(sec),361.7
+2019/05/31 19:49:40.681  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.682  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.693  ,10: Finish at DFS:,Total Time Duration(sec),363.0
+2019/05/31 19:49:40.694  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,12.7
+2019/05/31 19:49:40.702  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.704  ,10: Finish at DFS:,Total Time Duration(sec),364.1
+2019/05/31 19:49:40.705  ,10: Finish at DFS:,Total Time Duration(sec),364.2
+2019/05/31 19:49:40.714  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,12.7
+2019/05/31 19:49:40.721  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.724  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,12.7
+2019/05/31 19:49:40.729  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,12.7
+2019/05/31 19:49:40.729  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,12.7
+2019/05/31 19:49:40.739  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,12.7
+2019/05/31 19:49:40.756  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.756  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.758  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.762  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.763  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.763  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.763  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.764  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.764  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.765  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.765  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.766  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.773  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.774  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.774  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.776  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.776  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.777  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.777  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.778  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.783  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,12.7
+2019/05/31 19:49:40.794  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,12.7
+2019/05/31 19:49:40.805  ,4:SpillProc.,mID,1335^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.806  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,12.7
+2019/05/31 19:49:40.810  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,12.7
+2019/05/31 19:49:40.813  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.821  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.821  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,13.816
+2019/05/31 19:49:40.826  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.828  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.828  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.828  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.829  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:40.830  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.829  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.838  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.838  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.839  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.839  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.840  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.841  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.842  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.846  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,13.816
+2019/05/31 19:49:40.846  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.847  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.848  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.849  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.849  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.850  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.851  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.857  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.857  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.852  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.858  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,13.816
+2019/05/31 19:49:40.858  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.859  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,13.816
+2019/05/31 19:49:40.859  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,13.816
+2019/05/31 19:49:40.860  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.862  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.866  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.866  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,13.816
+2019/05/31 19:49:40.872  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.872  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.873  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.873  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.874  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:40.876  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:40.879  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.880  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:40.881  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:40.881  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:40.882  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:40.882  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:40.883  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:40.883  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:40.883  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:40.883  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:40.885  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:40.889  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:40.892  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:40.893  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:40.894  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:40.901  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.911  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.911  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,13.816
+2019/05/31 19:49:40.921  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.921  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,13.816
+2019/05/31 19:49:40.935  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.935  ,5:Merge Proc.,mID,1335^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.935  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,13.816
+2019/05/31 19:49:40.938  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:40.941  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,13.816
+2019/05/31 19:49:40.942  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.955  ,5:Merge Proc.,mID,852^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.960  ,10: Finish at DFS:,Total Time Duration(sec),389.7
+2019/05/31 19:49:40.960  ,5:Merge Proc.,mID,1686^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:40.963  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:40.986  ,10: Finish at DFS:,Total Time Duration(sec),392.3
+2019/05/31 19:49:40.986  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:40.989  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:40.995  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:40.995  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:40.996  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:40.996  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.000  ,10: Finish at DFS:,Total Time Duration(sec),393.7
+2019/05/31 19:49:41.000  ,10: Finish at DFS:,Total Time Duration(sec),393.7
+2019/05/31 19:49:40.999  ,10: Finish at DFS:,Total Time Duration(sec),393.6
+2019/05/31 19:49:40.997  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.010  ,10: Finish at DFS:,Total Time Duration(sec),394.7
+2019/05/31 19:49:41.013  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.015  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.015  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.017  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.021  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.024  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.025  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.025  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.026  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.027  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.027  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.027  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.029  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.030  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.038  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.039  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.044  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.051  ,10: Finish at DFS:,Total Time Duration(sec),398.8
+2019/05/31 19:49:41.060  ,10: Finish at DFS:,Total Time Duration(sec),399.7
+2019/05/31 19:49:41.061  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,13.4
+2019/05/31 19:49:41.076  ,10: Finish at DFS:,Total Time Duration(sec),401.3
+2019/05/31 19:49:41.081  ,10: Finish at DFS:,Total Time Duration(sec),401.8
+2019/05/31 19:49:41.087  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.090  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.091  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.092  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.096  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.093  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.097  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.098  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.099  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.099  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.100  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.095  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,13.4
+2019/05/31 19:49:41.100  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.097  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.106  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.104  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.109  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,13.4
+2019/05/31 19:49:41.107  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.107  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.112  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.112  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.111  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.110  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.113  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.111  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.115  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,13.4
+2019/05/31 19:49:41.115  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,13.4
+2019/05/31 19:49:41.114  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.114  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,13.4
+2019/05/31 19:49:41.114  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.124  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.116  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.115  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.126  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.127  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.125  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.127  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.126  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.128  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.128  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.131  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.131  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.129  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.139  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.139  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.138  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.138  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.146  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.141  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.147  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.147  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.149  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.148  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.149  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.149  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.155  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.155  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,13.4
+2019/05/31 19:49:41.150  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.159  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.161  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,13.4
+2019/05/31 19:49:41.158  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.161  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.158  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.162  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.160  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.162  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.162  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.163  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.163  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.174  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.174  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.175  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.173  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.172  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.170  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.168  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.164  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.181  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.178  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,13.4
+2019/05/31 19:49:41.177  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.173  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.184  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.183  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,13.4
+2019/05/31 19:49:41.193  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.190  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.196  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.194  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.197  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.197  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,14.512
+2019/05/31 19:49:41.197  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.198  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.199  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.203  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.207  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.207  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.208  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.234  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.234  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,14.512
+2019/05/31 19:49:41.245  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.245  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,14.512
+2019/05/31 19:49:41.250  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.251  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,14.512
+2019/05/31 19:49:41.256  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.256  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,14.512
+2019/05/31 19:49:41.259  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.260  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,14.512
+2019/05/31 19:49:41.268  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.283  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.294  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.294  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,14.512
+2019/05/31 19:49:41.296  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.296  ,2:MapProcess,mID,1335^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.296  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,14.512
+2019/05/31 19:49:41.297  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.304  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.308  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.310  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.317  ,3:Part.+Seri.,mID,1335^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.318  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.322  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.322  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,14.512
+2019/05/31 19:49:41.325  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.328  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.328  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,14.512
+2019/05/31 19:49:41.329  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.331  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.331  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.332  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.332  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.333  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.334  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.338  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.342  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.342  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.343  ,10: Finish at DFS:,Total Time Duration(sec),428.0
+2019/05/31 19:49:41.343  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.345  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.345  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.346  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.346  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.348  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.353  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.354  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.356  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.357  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.357  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.381  ,10: Finish at DFS:,Total Time Duration(sec),431.8
+2019/05/31 19:49:41.390  ,10: Finish at DFS:,Total Time Duration(sec),432.7
+2019/05/31 19:49:41.397  ,10: Finish at DFS:,Total Time Duration(sec),433.4
+2019/05/31 19:49:41.401  ,10: Finish at DFS:,Total Time Duration(sec),433.8
+2019/05/31 19:49:41.405  ,10: Finish at DFS:,Total Time Duration(sec),434.2
+2019/05/31 19:49:41.419  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.419  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.420  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.424  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.424  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.425  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.426  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.430  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.431  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.432  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.432  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.433  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.433  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.435  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.438  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.442  ,10: Finish at DFS:,Total Time Duration(sec),437.9
+2019/05/31 19:49:41.440  ,10: Finish at DFS:,Total Time Duration(sec),437.7
+2019/05/31 19:49:41.444  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,14.0
+2019/05/31 19:49:41.442  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.445  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.446  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.446  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.448  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.453  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.456  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.458  ,2:MapProcess,mID,501^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.459  ,4:SpillProc.,mID,1335^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.461  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.462  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.463  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.464  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.466  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.466  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.467  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.469  ,10: Finish at DFS:,Total Time Duration(sec),440.6
+2019/05/31 19:49:41.472  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.470  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.475  ,10: Finish at DFS:,Total Time Duration(sec),441.2
+2019/05/31 19:49:41.477  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.478  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.479  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.480  ,3:Part.+Seri.,mID,501^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.480  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.481  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.482  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,14.0
+2019/05/31 19:49:41.487  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.490  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.491  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,14.0
+2019/05/31 19:49:41.491  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.492  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.493  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.493  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.494  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.494  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.498  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,14.0
+2019/05/31 19:49:41.511  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,14.0
+2019/05/31 19:49:41.512  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,14.0
+2019/05/31 19:49:41.544  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,14.0
+2019/05/31 19:49:41.545  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,14.0
+2019/05/31 19:49:41.558  ,2:MapProcess,mID,1019^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.575  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.577  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,14.0
+2019/05/31 19:49:41.580  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,14.0
+2019/05/31 19:49:41.580  ,3:Part.+Seri.,mID,1019^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.586  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.588  ,5:Merge Proc.,mID,1335^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.588  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,15.2
+2019/05/31 19:49:41.593  ,5:Merge Proc.,mID,852^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.599  ,2:MapProcess,mID,1433^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.604  ,5:Merge Proc.,mID,1686^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.607  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.607  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.608  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.612  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.612  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.613  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.613  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.614  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.615  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.615  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.616  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.621  ,3:Part.+Seri.,mID,1433^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.622  ,4:SpillProc.,mID,501^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.621  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.626  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.626  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.627  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.627  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.628  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.628  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.629  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.629  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.631  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.632  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.636  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,15.2
+2019/05/31 19:49:41.637  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,15.2
+2019/05/31 19:49:41.641  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.641  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,15.2
+2019/05/31 19:49:41.652  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.652  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,15.2
+2019/05/31 19:49:41.653  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.654  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,15.2
+2019/05/31 19:49:41.685  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.685  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,15.2
+2019/05/31 19:49:41.686  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.692  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,15.2
+2019/05/31 19:49:41.717  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.717  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,15.2
+2019/05/31 19:49:41.720  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:41.725  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.726  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.722  ,4:SpillProc.,mID,1019^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.725  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,15.2
+2019/05/31 19:49:41.727  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.727  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.728  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.728  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.729  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.730  ,2:MapProcess,mID,1784^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.738  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.731  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.739  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.740  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.740  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.741  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.745  ,10: Finish at DFS:,Total Time Duration(sec),468.2
+2019/05/31 19:49:41.744  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.743  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.746  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.748  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.748  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.749  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.749  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.753  ,5:Merge Proc.,mID,501^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.750  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.760  ,3:Part.+Seri.,mID,1784^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.756  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.755  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.753  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.761  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.760  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.762  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.762  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.764  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.763  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.763  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.768  ,4:SpillProc.,mID,1433^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.765  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.764  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.773  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.771  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.775  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.774  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.776  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.775  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.776  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.776  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.777  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.777  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.788  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.779  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.789  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.792  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.789  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.796  ,10: Finish at DFS:,Total Time Duration(sec),473.3
+2019/05/31 19:49:41.792  ,10: Finish at DFS:,Total Time Duration(sec),472.9
+2019/05/31 19:49:41.792  ,10: Finish at DFS:,Total Time Duration(sec),472.9
+2019/05/31 19:49:41.790  ,6:ShuffleSend[Ser]:,mID,1829^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.790  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.796  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.796  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.810  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.810  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.811  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.807  ,10: Finish at DFS:,Total Time Duration(sec),474.4
+2019/05/31 19:49:41.806  ,10: Finish at DFS:,Total Time Duration(sec),474.3
+2019/05/31 19:49:41.812  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.809  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.809  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.820  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.822  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.824  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.824  ,6:ShuffleSend[Ser]:,mID,1335^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.825  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.826  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.827  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.827  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.828  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.833  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.835  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.837  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.838  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.840  ,10: Finish at DFS:,Total Time Duration(sec),477.7
+2019/05/31 19:49:41.840  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.844  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.843  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.844  ,10: Finish at DFS:,Total Time Duration(sec),478.1
+2019/05/31 19:49:41.845  ,6:ShuffleSend[Ser]:,mID,852^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.846  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.855  ,5:Merge Proc.,mID,1019^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.847  ,7:Gen. ShuffleFiles:,rID,162^0^0^0^0,time,14.6
+2019/05/31 19:49:41.855  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.859  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.862  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.863  ,6:ShuffleSend[Ser]:,mID,1686^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.873  ,10: Finish at DFS:,Total Time Duration(sec),481.0
+2019/05/31 19:49:41.879  ,10: Finish at DFS:,Total Time Duration(sec),481.6
+2019/05/31 19:49:41.898  ,7:Gen. ShuffleFiles:,rID,887^0^0^0^0,time,14.6
+2019/05/31 19:49:41.898  ,7:Gen. ShuffleFiles:,rID,789^0^0^0^0,time,14.6
+2019/05/31 19:49:41.901  ,7:Gen. ShuffleFiles:,rID,985^0^0^0^0,time,14.6
+2019/05/31 19:49:41.906  ,2:MapProcess,mID,1829^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.904  ,4:SpillProc.,mID,1784^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:41.901  ,5:Merge Proc.,mID,1433^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:41.910  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:41.913  ,7:Gen. ShuffleFiles:,rID,393^0^0^0^0,time,14.6
+2019/05/31 19:49:41.916  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:41.920  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:41.921  ,7:Gen. ShuffleFiles:,rID,491^0^0^0^0,time,14.6
+2019/05/31 19:49:41.926  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:41.927  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:41.927  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:41.928  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:41.928  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:41.929  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:41.929  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:41.930  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:41.930  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:41.932  ,3:Part.+Seri.,mID,1829^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.936  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:41.939  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:41.939  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:41.940  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:41.941  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:41.941  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:41.942  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:41.942  ,6:ShuffleSend[Ser]:,mID,501^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:41.945  ,7:Gen. ShuffleFiles:,rID,1531^0^0^0^0,time,14.6
+2019/05/31 19:49:41.948  ,2:MapProcess,mID,852^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.957  ,7:Gen. ShuffleFiles:,rID,1949^0^0^0^0,time,14.6
+2019/05/31 19:49:41.964  ,2:MapProcess,mID,1686^0^0^0^0,Proc.Time,2.1333
+2019/05/31 19:49:41.971  ,3:Part.+Seri.,mID,852^0^0^0^0,Time,14.2406
+2019/05/31 19:49:41.974  ,7:Gen. ShuffleFiles:,rID,70^0^0^0^0,time,14.6
+2019/05/31 19:49:41.981  ,7:Gen. ShuffleFiles:,rID,1300^0^0^0^0,time,14.6
+2019/05/31 19:49:41.986  ,3:Part.+Seri.,mID,1686^0^0^0^0,Time,14.2406
+2019/05/31 19:49:42.004  ,8:Merge ShuffleFiles:,rID,162^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.004  ,9:Reduce+Send Process:rID,162^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.007  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:42.012  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:42.013  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:42.013  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:42.014  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:42.014  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:42.015  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:42.016  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:42.016  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:42.021  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:42.025  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:42.025  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:42.026  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:42.027  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:42.027  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:42.028  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:42.029  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:42.029  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:42.030  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:42.032  ,6:ShuffleSend[Ser]:,mID,1019^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:42.040  ,5:Merge Proc.,mID,1784^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:42.045  ,8:Merge ShuffleFiles:,rID,789^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.045  ,8:Merge ShuffleFiles:,rID,887^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.045  ,9:Reduce+Send Process:rID,789^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.045  ,9:Reduce+Send Process:rID,887^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.055  ,8:Merge ShuffleFiles:,rID,985^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.055  ,9:Reduce+Send Process:rID,985^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.063  ,8:Merge ShuffleFiles:,rID,393^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.063  ,9:Reduce+Send Process:rID,393^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.065  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:42.071  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
+2019/05/31 19:49:42.072  ,8:Merge ShuffleFiles:,rID,491^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.072  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,2,comTime,0.0
+2019/05/31 19:49:42.073  ,9:Reduce+Send Process:rID,491^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.077  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,887^0^0^0^0,keyID,3,comTime,0.0
+2019/05/31 19:49:42.078  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,4,comTime,0.0
+2019/05/31 19:49:42.079  ,4:SpillProc.,mID,1829^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:42.079  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,985^0^0^0^0,keyID,5,comTime,0.0
+2019/05/31 19:49:42.080  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,6,comTime,0.0
+2019/05/31 19:49:42.081  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,162^0^0^0^0,keyID,7,comTime,0.0
+2019/05/31 19:49:42.081  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,8,comTime,0.0
+2019/05/31 19:49:42.086  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,393^0^0^0^0,keyID,9,comTime,0.0
+2019/05/31 19:49:42.087  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,10,comTime,0.0
+2019/05/31 19:49:42.090  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,491^0^0^0^0,keyID,11,comTime,0.0
+2019/05/31 19:49:42.091  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,12,comTime,0.0
+2019/05/31 19:49:42.092  ,8:Merge ShuffleFiles:,rID,1531^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.092  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,70^0^0^0^0,keyID,13,comTime,0.0
+2019/05/31 19:49:42.092  ,9:Reduce+Send Process:rID,1531^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.093  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,14,comTime,0.0
+2019/05/31 19:49:42.094  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1531^0^0^0^0,keyID,15,comTime,0.0
+2019/05/31 19:49:42.096  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,16,comTime,0.0
+2019/05/31 19:49:42.100  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1949^0^0^0^0,keyID,17,comTime,0.0
+2019/05/31 19:49:42.101  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,18,comTime,0.0
+2019/05/31 19:49:42.103  ,8:Merge ShuffleFiles:,rID,1949^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.104  ,6:ShuffleSend[Ser]:,mID,1433^0^0^0^0,rID,1300^0^0^0^0,keyID,19,comTime,0.0
+2019/05/31 19:49:42.105  ,9:Reduce+Send Process:rID,1949^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.114  ,4:SpillProc.,mID,852^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:42.121  ,8:Merge ShuffleFiles:,rID,70^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.122  ,9:Reduce+Send Process:rID,70^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.127  ,8:Merge ShuffleFiles:,rID,1300^0^0^0^0,time,0.0133
+2019/05/31 19:49:42.127  ,9:Reduce+Send Process:rID,1300^0^0^0^0,time,15.895999999999999
+2019/05/31 19:49:42.128  ,4:SpillProc.,mID,1686^0^0^0^0time,12.800000000000002
+2019/05/31 19:49:42.166  ,10: Finish at DFS:,Total Time Duration(sec),510.3
+2019/05/31 19:49:42.209  ,10: Finish at DFS:,Total Time Duration(sec),514.6
+2019/05/31 19:49:42.209  ,5:Merge Proc.,mID,1829^0^0^0^0,time,15.068000000000003
+2019/05/31 19:49:42.209  ,10: Finish at DFS:,Total Time Duration(sec),514.6
+2019/05/31 19:49:42.210  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,0,comTime,0.0
+2019/05/31 19:49:42.213  ,10: Finish at DFS:,Total Time Duration(sec),515.0
+2019/05/31 19:49:42.221  ,10: Finish at DFS:,Total Time Duration(sec),515.8
+2019/05/31 19:49:42.215  ,6:ShuffleSend[Ser]:,mID,1784^0^0^0^0,rID,789^0^0^0^0,keyID,1,comTime,0.0
