@@ -202,7 +202,7 @@ public class FSHost extends ComputeHost {
         //受信したファイルのキー数の合計値が最大になれば修了．
         long keyKindsNum = this.getIfList().get(0).getKeyKindsNum();
         //System.out.println("current:"+this.currentKeyKindsNum +"/"+keyKindsNum);
-
+MRLog.getIns().log("***KeyKindsNum:"+MRMgr.getIns().getTotalInputSplitNum() +"/"+MRMgr.getIns().getCurrentSentSplitNum());
         if(this.currentKeyKindsNum >= keyKindsNum){
             MRMgr.getIns().setFinTimeStamp(System.currentTimeMillis());
             long duration = MRMgr.getIns().getFinTimeStamp() - MRMgr.getIns().getStartTimeStamp();

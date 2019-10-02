@@ -170,6 +170,12 @@ public class MRVCPU extends VCPU {
                     //this.sfs = null;
                 }
             }
+/*
+            if(this.isQueue.isEmpty() && this.sfQueue.isEmpty()){
+                break;
+            }
+
+ */
   /*
             switch(this.status){
                 //Mapperとしての処理
@@ -626,6 +632,7 @@ public class MRVCPU extends VCPU {
         MRLog.getIns().log(",9:Reduce+Send Process:"+"rID,"+this.getPrefix() +","+ "time,"+totalTime);
         this.process(totalTime);
         fsHost.processOutput(sfs);
+        MRMgr.getIns().countUpSplitNum(1);
 
         //次に，出力ファイルを送る．
         return null;

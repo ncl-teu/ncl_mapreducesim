@@ -24,8 +24,8 @@ public class MRTest {
 
         //MapReduceの制御プロセスの設定
         MRMgr.getIns().initialize();
-        ConvexProvisioningAlgorithm p = new ConvexProvisioningAlgorithm(MRMgr.getIns().getEnv());
-        p.calcOptimalMapperNum();
+        //ConvexProvisioningAlgorithm p = new ConvexProvisioningAlgorithm(MRMgr.getIns().getEnv());
+        //p.calcOptimalMapperNum();
         //CCNMgr自体のスレッドを起
         Thread mgrThread = new Thread(MRMgr.getIns());
         mgrThread.start();
