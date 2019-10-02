@@ -631,8 +631,9 @@ public class MRVCPU extends VCPU {
         totalTime += comTime;
         MRLog.getIns().log(",9:Reduce+Send Process:"+"rID,"+this.getPrefix() +","+ "time,"+totalTime);
         this.process(totalTime);
-        fsHost.processOutput(sfs);
         MRMgr.getIns().countUpSplitNum(1);
+
+        fsHost.processOutput(sfs);
 
         //次に，出力ファイルを送る．
         return null;
