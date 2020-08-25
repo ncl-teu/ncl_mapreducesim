@@ -22,7 +22,7 @@ TIMESTAMP ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
 
 # Copyright
 
-see [LICENSE}(https://github.com/ncl-teu/ncl_mapreducesim/blob/master/LICENSE)
+see [LICENSE](https://github.com/ncl-teu/ncl_mapreducesim/blob/master/LICENSE)
 
 Guard object of logger for debugging.
 Copyright (c) 2019 Hidehiro Kanemitsu <kanemitsuh@stf.teu.ac.jp>
