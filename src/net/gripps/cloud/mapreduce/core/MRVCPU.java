@@ -352,7 +352,7 @@ public class MRVCPU extends VCPU {
             sf.getKeyElemSet().put(ele.getKey(), ele);
             ss.getSfList().add(sf);
         }
-        MRLog.getIns().log(",4:SpillProc."+","+"mID,"+this.getPrefix()+"time,"+totalTime);
+        MRLog.getIns().log(",4:SpillProc."+","+"mID,"+this.getPrefix()+",time,"+totalTime);
         this.process(totalTime);
         //次にspillSplitを生成する．
 
@@ -439,7 +439,7 @@ public class MRVCPU extends VCPU {
 
         //Reducer集合が無ければ，いろいろセットする．
         if(MRMgr.getIns().getRetReducerMap().isEmpty()){
-           // MRMgr.getIns().setActualReducers(actualReducerNum);
+            // MRMgr.getIns().setActualReducers(actualReducerNum);
             MRMgr.getIns().setActualReducers(reducerNum);
             //1MPを1Reducerが担当する．
             int len = mpList.size();
