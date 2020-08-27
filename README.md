@@ -1,5 +1,5 @@
 # ncl_MapReduceSim(MRSim)
-MapReduceSimulator for Scheduling and Provisioning Algorithms. 
+MapReduce Simulator for Scheduling and Provisioning Algorithms. 
 
 # Summary
 - MRSim run a MapReduce procedures with the specific number of mappers/reducers with a specific scheduling and provisioning algorithm. 
