@@ -2,8 +2,8 @@
 MapReduce Simulator for Scheduling and Provisioning Algorithms. 
 
 # Summary
-- MRSim run a MapReduce procedures with the specific number of mappers/reducers with a specific scheduling and provisioning algorithm. 
-- Those parameters (number of mappers/reducers, zizes of input data, InputSplits,scheduling algorithm, and provisioning algorithm) can be set the configuration file. Thus, you can test a MapReduce processes in various kinds of situations. 
+- MRSim runs a MapReduce procedures with the specific number of mappers/reducers and a specific scheduling/provisioning algorithm. 
+- Those parameters (nmber of mappers/reducers, zizes of input data, InputSplits,scheduling algorithm, and provisioning algorithm) can be set the configuration file. Thus, you can test a MapReduce processes in various kinds of situations. 
 # How to run
 - The configuration file is `mr.properties`, that defines the whole system and application parameters. 
 - **Build**: use ant and run `ant build`. 
