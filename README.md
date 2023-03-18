@@ -1,7 +1,7 @@
-# ncl_MapReduceSim(MRSim)2
-MapReduce Simulator for Scheduling and Provisioning Algorithms. 
+# モバイル環境でのMapReduceシミュレータ
+Mapperをモバイル端末，Reducerを1台の端末した場合のMapReduceシミュレータです．
 
-# Summary
+# 概要
 - MRSim runs a MapReduce procedures with the specific number of mappers/reducers and a specific scheduling/provisioning algorithm. 
 - Those parameters (number of mappers/reducers, sizes of input data, InputSplits,scheduling algorithm, and provisioning algorithm) can be set the configuration file. Thus, you can test a MapReduce processes in various kinds of situations. 
 # How to run
