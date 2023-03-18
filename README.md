@@ -23,6 +23,13 @@ TIMESTAMP ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
 ...
 2020/07/25 13:23:27.322  ,6':ShuffleSend_candidate[para]:,mID,39^0^0^0^0,rID,665^0^0^0^0,keyID,58,comTime,0.0
 ~~~
+# 基本的な想定処理
+## Map処理
+![image](https://user-images.githubusercontent.com/4952618/226114580-4a6e75aa-8bdd-46cd-aaf8-293781eb81e5.png)
+## Shuffle処理
+![image](https://user-images.githubusercontent.com/4952618/226114614-bcc7e397-5edd-4887-8d4a-1a2fc1d5fd84.png)
+## Reduce処理
+![image](https://user-images.githubusercontent.com/4952618/226114641-0b758873-fc6b-42ae-90b8-8b6b0cc37b0e.png)
 
 # APIについて
 ## 設定ファイルの内容
