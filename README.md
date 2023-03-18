@@ -28,14 +28,32 @@ TIMESTAMP ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
 ## 設定ファイルの内容
 - [mr.properties](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/mr.properties)を参照．
 ## 処理フロー
-- Mainクラスは[MRTest.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/main/MRTest.java)で，プロビジョニングアルゴリズム，スケジューリングアルゴリズムの選択，システム環境，MRMgrクラスの起動を行います．
-- [MRMgr.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java)が，全体の処理を制御しています．また，大域的なデータも保持しているので，シミュレーションの実行時情報が欲しい場合はこのクラスへ問い合わせます．Singletonクラスのため，インスタンス生成せずに情報を取得します．
+- Mainクラスは[MRTest.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/main/MRTest.java)で，MRMgrクラスの起動を行います．
+- [MRMgr.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java)が，全体の処理を制御しています．[プロビジョニングアルゴリズム](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L93)，[スケジューリングアルゴリズムの選択](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L87)，[システム環境](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L83)，また，大域的なデータも保持しているので，シミュレーションの実行時情報が欲しい場合はこのクラスへ問い合わせます．Singletonクラスのため，インスタンス生成せずに情報を取得します．
 ~~~
 //環境情報を取得する例．MRMgrをインスタンス化せずに直接取得できる．
 MRCloudEnvironment env = MRMgr.getIns().getEnv();
 ~~~
 - 
 ## InputSplit（入力ファイルの分割部）を割り当てるアルゴリズムの作成方法
+- 独自のスケジューリングアルゴリズムを作る方法を説明します．具体的には，InputSplitをどのMapperへ割り当てるか，というアルゴリズムです．
+- mr.propertiesにおいて，下記の箇所を設定します．
+~~~
+# Schedulingアルゴリズムの総数(新たに追加するのであれば+1させる）
+# Number of scheduling algorithms.
+mr_algorithm_scheduling_num=1
+
+# Schedulingアルゴリズムで，使うものを指定する．
+# 0: Base 1:??? 2:???
+mr_algorithm_scheduling_using=0
+~~~
+- [BaseMRScheduling.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java)を継承したクラスを作る．
+~~~
+public NEWSchedulingAlgorithm extends BaseMRScheduling{
+....
+}
+~~~
+- [sendInputSplitsメソッド](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L29)をオーバーライドさせる．具体的には[InputSplitの送信先決定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L61)を新たに考える．
 
 # Copyright
 
