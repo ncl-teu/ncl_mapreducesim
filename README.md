@@ -1,4 +1,4 @@
-# ncl_MapReduceSim(MRSim)
+# ncl_MapReduceSim(MRSim)2
 MapReduce Simulator for Scheduling and Provisioning Algorithms. 
 
 # Summary
