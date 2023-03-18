@@ -26,15 +26,15 @@ TIMESTAMP ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
 
 # APIについて
 ## 設定ファイルの内容
-- [mr.properties](https://github.com/ncl-teu/ncl_mapreducesim/blob/master/mr.properties)を参照．
+- [mr.properties](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/mr.properties)を参照．
 ## 処理フロー
-- [MRMgr.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/master/src/net/gripps/cloud/mapreduce/MRMgr.java)が，全体の処理を制御しています．また，大域的なデータも保持しているので，シミュレーションの実行時情報が欲しい場合はこのクラスへ問い合わせます．Singletonクラスのため，インスタンス生成せずに情報を取得します．
+- [MRMgr.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java)が，全体の処理を制御しています．また，大域的なデータも保持しているので，シミュレーションの実行時情報が欲しい場合はこのクラスへ問い合わせます．Singletonクラスのため，インスタンス生成せずに情報を取得します．
 ~~~
 //環境情報を取得する例．MRMgrをインスタンス化せずに直接取得できる．
 MRCloudEnvironment env = MRMgr.getIns().getEnv();
 ~~~
 # Copyright
 
-see [LICENSE](https://github.com/ncl-teu/ncl_mapreducesim/blob/master/LICENSE)
+see [LICENSE](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/LICENSE)
 
 Copyright (c) 2019 Hidehiro Kanemitsu <kanemitsuh@stf.teu.ac.jp>
