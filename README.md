@@ -34,7 +34,6 @@ TIMESTAMP ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
 //環境情報を取得する例．MRMgrをインスタンス化せずに直接取得できる．
 MRCloudEnvironment env = MRMgr.getIns().getEnv();
 ~~~
-- 
 ## InputSplit（入力ファイルの分割部）を割り当てるアルゴリズムの作成方法
 - 独自のスケジューリングアルゴリズムを作る方法を説明します．具体的には，InputSplitをどのMapperへ割り当てるか，というアルゴリズムです．
 - mr.propertiesにおいて，下記の箇所を設定します．
@@ -47,14 +46,40 @@ mr_algorithm_scheduling_num=1
 # 0: Base 1:??? 2:???
 mr_algorithm_scheduling_using=0
 ~~~
+
 - [BaseMRScheduling.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java)を継承したクラスを作る．
 ~~~
 public NEWSchedulingAlgorithm extends BaseMRScheduling{
 ....
 }
 ~~~
-- [sendInputSplitsメソッド](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L29)をオーバーライドさせる．具体的には[InputSplitの送信先決定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L61)を新たに考える．
 
+- [sendInputSplitsメソッド](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L29)をオーバーライドさせる．具体的には[InputSplitの送信先決定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L61)を新たに考える．現状では，ラウンドロビン方式で決めているのみである．
+- 上記mr.propertiesの`mr_algorithm_scheduling_using`を設定することにより，目的のスケジューリングがシミュレーション中で適用される．
+
+## プロビジョニングアルゴリズム（事前にMapper/Reducer数を決める）アルゴリズムの作成方法
+- mr.propertiesにて，以下の箇所を設定する．
+~~~
+# Schedulingアルゴリズムで，使うもの
+# 0: Base 1:??? 2:???
+mr_algorithm_scheduling_using=0
+
+# Provisioningアルゴリズムの総数(+1する）
+# Number of Provisioning algorithms.
+mr_algorithm_provisioning_num=2
+
+# Provisioningアルゴリズムで，使うもの
+# 0: Base 1:Convex 2:???
+# the used provisioning algorithm
+mr_algorithm_provisioning_using=1
+~~~
+- 新規に，BaseProvisioningAlgorithmを継承したクラスを作る．
+~~~
+public class NewProvisioning extends BaseProvisioningAlgorithm{
+...
+}
+~~~
+- 特に,`calcMapperNum`メソッドをオーバーライドして，Mapperの数を決める処理を書く．
 # Copyright
 
 see [LICENSE](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/LICENSE)
