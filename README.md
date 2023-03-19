@@ -77,7 +77,7 @@ mr_algorithm_provisioning_num=2
 # the used provisioning algorithm
 mr_algorithm_provisioning_using=1
 ~~~
-- 新規に，BaseProvisioningAlgorithmを継承したクラスを作る．
+- 新規に，[BaseProvisioningAlgorithm](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/provisioning/BaseProvisioningAlgorithm.java)を継承したクラスを作る．
 ~~~
 public class NewProvisioning extends BaseProvisioningAlgorithm{
 ...
