@@ -41,6 +41,7 @@ TIMESTAMP ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
 //環境情報を取得する例．MRMgrをインスタンス化せずに直接取得できる．
 MRCloudEnvironment env = MRMgr.getIns().getEnv();
 ~~~
+- 各ノードは，[MRVCPUクラス](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/core/MRVCPU.java)で行っている．このクラスはスレッドであり，Mapper/Reducerの役割を持っている．データ受信用キューを持っており，キューにデータが入っていないかを無限ループでチェックし，あれば取り出してMap/Shuffle/Reduce等の処理を行う．
 ## InputSplit（入力ファイルの分割部）を割り当てるアルゴリズムの作成方法
 - 独自のスケジューリングアルゴリズムを作る方法を説明します．具体的には，InputSplitをどのMapperへ割り当てるか，というアルゴリズムです．
 - mr.propertiesにおいて，下記の箇所を設定します．
@@ -108,6 +109,16 @@ public class NewProvisioning extends BaseProvisioningAlgorithm{
 - GWがタスク（入力情報）を配布し，モバイル端末(Mapper)による処理結果や途中情報を受信する．すなわち，HadoopにおけるHDFSとReducerは同一であり，かつ1台のみである．
 - モバイル端末(Mapper)とGWとの途中での情報交換を行うように処理を加える必要がある．
 - 本シミュレータにおけるMapperはもともとVMもしくは物理マシンを想定している．今回はモバイル端末であるため，モバイルネットワークにおける，各モバイル端末の帯域幅は動的に変わる．シャノンの定理などを使えば推定は可能だが，どこまで頑張るかが問題．各チャネルでの送信電力とチャネル利得，バックグラウンド雑音電力が分かれば実際の帯域幅は算出可能．
+- スマホへの処理（データ）配布
+ ![image](https://user-images.githubusercontent.com/4952618/226185725-6dcbc609-19ef-4a63-a4a2-ce5b0fabd1b2.png)
+- スマホでのMap処理＋送信
+![image](https://user-images.githubusercontent.com/4952618/226185752-63f5aa62-0be2-4273-ac1a-22980976347a.png)
+# 研究対象
+- スマホからGWへの出力結果のデータサイズにばらつきがあった場合の均衡化手法
+- 各スマホの処理能力を考慮して，GWからの配布サイズに偏りを持たせる手法
+- スマホ(Mapper)の数を変数として応答時間を定式化し，応答時間が最小になるときのスマホ(Mapper)数を導出．
+    - 途中でのMapperとGWのやり取りは行わない場合のMapper最適値は導出済み（シミュレータに組み込み済み）
+
 # Copyright
 
 see [LICENSE](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/LICENSE)
