@@ -62,6 +62,16 @@ public NEWSchedulingAlgorithm extends BaseMRScheduling{
 ~~~
 
 - [sendInputSplitsメソッド](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L29)をオーバーライドさせる．具体的には[InputSplitの送信先決定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L61)を新たに考える．現状では，ラウンドロビン方式で決めているのみである．
+- [MRMgrクラスのスケジューリングあるごリズム配列設定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L87)にて，以下のように追記する．
+~~~
+
+//**************スケジューリングアルゴリズムの設定 *******************/
+        this.scheds = new IMRScheduling[MRUtil.mr_algorithm_scheduling_num];
+        this.scheds[0] = new BaseMRScheduling();
+        //追記する箇所
+        this.scheds[1] = new NEWMRScheduling();
+        this.usedShceduling = this.scheds[MRUtil.mr_algorithm_scheduling_using];
+~~~
 - 上記mr.propertiesの`mr_algorithm_scheduling_using`を設定することにより，目的のスケジューリングがシミュレーション中で適用される．
 
 ## プロビジョニングアルゴリズム（事前にMapper/Reducer数を決める）アルゴリズムの作成方法
@@ -84,6 +94,16 @@ public class NewProvisioning extends BaseProvisioningAlgorithm{
 }
 ~~~
 - 特に,`calcMapperNum`メソッドをオーバーライドして，Mapperの数を決める処理を書く．
+- [MRMgrクラスのプロビジョニングアルゴリズム設定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L93)にて，新たに以下のように追記する．
+~~~
+// **************プロビジョニングアルゴリズムの設定 *******************/
+        this.provs = new IMRProvisioning[MRUtil.mr_algorithm_provisioning_num];
+        this.provs[0] = new BaseProvisioningAlgorithm(this.env);
+        this.provs[1] = new ConvexProvisioningAlgorithm(this.env);
+        //追記する．
+        this.provs[2] = new NEWProvisoningAlgorithm(this.env);
+        this.usedProvisioning = this.provs[MRUtil.mr_algorithm_provisioning_using];
+~~~
 # Copyright
 
 see [LICENSE](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/LICENSE)
