@@ -104,6 +104,10 @@ public class NewProvisioning extends BaseProvisioningAlgorithm{
         this.provs[2] = new NEWProvisoning(this.env);
         this.usedProvisioning = this.provs[MRUtil.mr_algorithm_provisioning_using];
 ~~~
+# 本プロジェクトでの想定
+- GWがタスク（入力情報）を配布し，モバイル端末(Mapper)による処理結果や途中情報を受信する．すなわち，HadoopにおけるHDFSとReducerは同一であり，かつ1台のみである．
+- モバイル端末(Mapper)とGWとの途中での情報交換を行うように処理を加える必要がある．
+- 本シミュレータにおけるMapperはもともとVMもしくは物理マシンを想定している．今回はモバイル端末であるため，モバイルネットワークにおける，各モバイル端末の帯域幅は動的に変わる．シャノンの定理などを使えば推定は可能だが，どこまで頑張るかが問題．各チャネルでの送信電力とチャネル利得，バックグラウンド雑音電力が分かれば実際の帯域幅は算出可能．
 # Copyright
 
 see [LICENSE](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/LICENSE)
