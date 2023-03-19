@@ -67,9 +67,6 @@ public NEWSchedulingAlgorithm extends BaseMRScheduling{
 ## プロビジョニングアルゴリズム（事前にMapper/Reducer数を決める）アルゴリズムの作成方法
 - mr.propertiesにて，以下の箇所を設定する．
 ~~~
-# Schedulingアルゴリズムで，使うもの
-# 0: Base 1:??? 2:???
-mr_algorithm_scheduling_using=0
 
 # Provisioningアルゴリズムの総数(+1する）
 # Number of Provisioning algorithms.
