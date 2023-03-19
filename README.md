@@ -101,7 +101,7 @@ public class NewProvisioning extends BaseProvisioningAlgorithm{
         this.provs[0] = new BaseProvisioningAlgorithm(this.env);
         this.provs[1] = new ConvexProvisioningAlgorithm(this.env);
         //追記する．
-        this.provs[2] = new NEWProvisoningAlgorithm(this.env);
+        this.provs[2] = new NEWProvisoning(this.env);
         this.usedProvisioning = this.provs[MRUtil.mr_algorithm_provisioning_using];
 ~~~
 # Copyright
