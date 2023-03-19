@@ -4,9 +4,7 @@ import net.gripps.cloud.core.*;
 import net.gripps.cloud.mapreduce.core.FSHost;
 import net.gripps.cloud.mapreduce.core.MRCloudEnvironment;
 import net.gripps.cloud.mapreduce.core.MRVCPU;
-import net.gripps.cloud.mapreduce.provisioning.BaseProvisioningAlgorithm;
-import net.gripps.cloud.mapreduce.provisioning.ConvexProvisioningAlgorithm;
-import net.gripps.cloud.mapreduce.provisioning.IMRProvisioning;
+import net.gripps.cloud.mapreduce.provisioning.*;
 import net.gripps.cloud.mapreduce.scheduling.IMRScheduling;
 import net.gripps.cloud.mapreduce.scheduling.BaseMRScheduling;
 import net.gripps.environment.CPU;
@@ -26,8 +24,14 @@ public class MRMgr implements Runnable {
      */
     protected  MRCloudEnvironment env;
 
+    /**
+     * Mapperのリスト
+     */
     protected ArrayList<MRVCPU> mapperList;
 
+    /**
+     * Reducerのリスト
+     */
     protected ArrayList<MRVCPU> reducerList;
 
     /**
@@ -94,6 +98,8 @@ public class MRMgr implements Runnable {
         this.provs = new IMRProvisioning[MRUtil.mr_algorithm_provisioning_num];
         this.provs[0] = new BaseProvisioningAlgorithm(this.env);
         this.provs[1] = new ConvexProvisioningAlgorithm(this.env);
+        this.provs[2] = new BaseMobileGWProvisioning(this.env);
+        this.provs[3] = new ConvexMobileGWProvisioning(this.env);
         this.usedProvisioning = this.provs[MRUtil.mr_algorithm_provisioning_using];
 // **************プロビジョニングアルゴリズムの設定 END *******************/
 

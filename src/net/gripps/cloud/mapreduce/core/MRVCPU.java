@@ -208,7 +208,7 @@ public class MRVCPU extends VCPU {
 
     public boolean process(double val) {
         try {
-            long formattedValue = (long) (val * 1000 / MRUtil.time_speed_rate);
+            long formattedValue = (long) ((double)val * 1000 / (double)MRUtil.time_speed_rate);
             Thread.sleep(formattedValue);
         } catch (Exception e) {
             e.printStackTrace();

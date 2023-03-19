@@ -185,7 +185,7 @@ public class FSHost extends ComputeHost {
      */
     public boolean process(double val){
         try{
-            long formattedValue = (long)(val * 1000/MRUtil.time_speed_rate);
+            long formattedValue = (long)((double)val * 1000/(double)MRUtil.time_speed_rate);
             Thread.sleep(formattedValue);
         }catch(Exception e){
             e.printStackTrace();
@@ -209,7 +209,7 @@ MRLog.getIns().log("***KeyKindsNum:"+MRMgr.getIns().getTotalInputSplitNum() +"/"
             double time = MRUtil.getRoundedValue(duration/(double)1000);
             // System.out.println("Time: "+MRUtil.getRoundedValue( time*MRUtil.time_speed_rate) + "(sec).");
             MRLog.getIns().log(",10: Finish at DFS:"+ ","+ "Total Time Duration(sec),"+MRUtil.getRoundedValue( time*MRUtil.time_speed_rate) );
-            if(MRMgr.getIns().getTotalInputSplitNum() == MRMgr.getIns().getCurrentSentSplitNum()){
+            if(MRMgr.getIns().getTotalInputSplitNum() <= MRMgr.getIns().getCurrentSentSplitNum()){
                 String mode = null;
                 if(MRUtil.mr_algorithm_provisioning_using == 0){
                     mode = "All nodes";

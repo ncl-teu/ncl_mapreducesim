@@ -120,7 +120,7 @@ public class BaseProvisioningAlgorithm implements IMRProvisioning{
 
       long mapperNum = this.mapperNum;
       long reducernum =(long)(Math.min(MRMgr.getIns().getKeyKindsNum(), this.mapperNum * MRUtil.num_reducer_rate_to_mapper));
-
+      this.reducerNum = reducernum;
         return reducernum;
 
     }
