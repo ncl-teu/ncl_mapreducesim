@@ -36,7 +36,7 @@ TIMESTAMP ,Type,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,
 - [mr.properties](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/mr.properties)を参照．
 ## 処理フロー
 - Mainクラスは[MRTest.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/main/MRTest.java)で，MRMgrクラスの起動を行います．
-- [MRMgr.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java)が，全体の処理を制御しています．[プロビジョニングアルゴリズム](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L93)，[スケジューリングアルゴリズムの選択](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L87)，[システム環境](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L83)，また，大域的なデータも保持しているので，シミュレーションの実行時情報が欲しい場合はこのクラスへ問い合わせます．Singletonクラスのため，インスタンス生成せずに情報を取得します．
+- [MRMgr.java](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java)が，全体の処理を制御しています．[プロビジョニングアルゴリズム](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L97)，[スケジューリングアルゴリズムの選択](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L91)，[システム環境](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L87)，また，大域的なデータも保持しているので，シミュレーションの実行時情報が欲しい場合はこのクラスへ問い合わせます．Singletonクラスのため，インスタンス生成せずに情報を取得します．
 ~~~
 //環境情報を取得する例．MRMgrをインスタンス化せずに直接取得できる．
 MRCloudEnvironment env = MRMgr.getIns().getEnv();
