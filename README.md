@@ -63,7 +63,7 @@ public NEWSchedulingAlgorithm extends BaseMRScheduling{
 ~~~
 
 - [sendInputSplitsメソッド](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L29)をオーバーライドさせる．具体的には[InputSplitの送信先決定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/scheduling/BaseMRScheduling.java#L61)を新たに考える．現状では，ラウンドロビン方式で決めているのみである．
-- [MRMgrクラスのスケジューリングあるごリズム配列設定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L87)にて，以下のように追記する．
+- [MRMgrクラスのスケジューリングアルゴリズムの配列設定部](https://github.com/ncl-teu/ncl_mapreducesim/blob/mobile/src/net/gripps/cloud/mapreduce/MRMgr.java#L87)にて，以下のように追記する．
 ~~~
 
 //**************スケジューリングアルゴリズムの設定 *******************/
