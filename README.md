@@ -118,6 +118,9 @@ public class NewProvisioning extends BaseProvisioningAlgorithm{
 - 各スマホの処理能力を考慮して，GWからの配布サイズに偏りを持たせる手法
 - スマホ(Mapper)の数を変数として応答時間を定式化し，応答時間が最小になるときのスマホ(Mapper)数を導出．
     - 途中でのMapperとGWのやり取りは行わない場合のMapper最適値は導出済み（シミュレータに組み込み済み）
+- 最適なMapper数/Reducer数の導出方法：
+[kanemitsu-mapreduce.pdf](https://github.com/ncl-teu/ncl_mapreducesim/files/11012861/kanemitsu-mapreduce.pdf)
+
 
 # Copyright
 
