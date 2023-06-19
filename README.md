@@ -5,8 +5,9 @@ Mapperをモバイル端末，ReducerをGW1台の端末した場合のMapReduce�
 - 特定のスケジューリングアルゴリズムと特定のmapper数でMap/Reduce処理を行います．
 - Mapper数, 入力ファイルサイズ，InputSplitサイズ＋数(入力ファイルの分割したもの）, スケジューリングアルゴリズム等のパラメータを，configファイルにて設定します．
 # 実行方法
+- まずは，ant.zipを解凍してください．ant/antではなく，ant/binという構造であることを確認してください．
 - configファイルは`mr.properties`であり，システム全体とアプリの振る舞いを定義します． 
-- **Build**: [Ant](https://dlcdn.apache.org//ant/binaries/apache-ant-1.9.16-bin.zip)を使ってビルドします．例えば，JDK/Antを設定済みであれば，コマンドラインから `ant build`してください．Antのインストールを行わずにbuildする場合は，[Ant](https://dlcdn.apache.org//ant/binaries/apache-ant-1.9.16-bin.zip)をDL+解凍後，ncl_mapreducesim-master/antというようにディレクトリ名をantへ変更した上で，`compile.bat`をダブルクリックしてください．
+- **Build**: `compile.bat`をダブルクリックしてください．
 - **Run**: `MRRun.bat`をダブルクリックして実行してください．またはLinux系OSの場合は`./MRRun.sh`を実行してください．
 - シミュレーション結果は`mr/mrlog.csv`に書き込まれます．ファイルフォーマットは↓です．
 ~~~
