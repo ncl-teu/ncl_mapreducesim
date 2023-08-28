@@ -17,7 +17,7 @@ public class InputSplit implements Serializable {
     /**
      * 当該inputsplitのサイズ．
      */
-    protected long size;
+    protected double size;
 
     /**
      * レコードのリスト
@@ -29,7 +29,7 @@ public class InputSplit implements Serializable {
     protected double comTime;
 
 
-    public InputSplit(long id, long size, long kinds) {
+    public InputSplit(long id, double size, long kinds) {
         this.isID = id;
         this.size = size;
         this.keyKindsNum = kinds;
@@ -71,11 +71,11 @@ public class InputSplit implements Serializable {
         }
     }
 
-    public long getSize() {
+    public double getSize() {
         return size;
     }
 
-    public void setSize(long size) {
+    public void setSize(double size) {
         this.size = size;
     }
 

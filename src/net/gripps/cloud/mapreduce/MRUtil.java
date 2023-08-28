@@ -26,15 +26,15 @@ public class MRUtil extends CloudUtil {
     /**
      * 入力ファイルのサイズ
      */
-    public static long size_of_inputfile_min;
+    public static double size_of_inputfile_min;
 
-    public static long size_of_inputfile_max;
+    public static double size_of_inputfile_max;
 
 
     /**
      * InputSplitのサイズ
      */
-    public static long  size_of_inputsplit;
+    public static double  size_of_inputsplit;
 
     /**
      * 逐次モードか，ダイナミックモードか
@@ -152,10 +152,10 @@ public class MRUtil extends CloudUtil {
             MRUtil.prop = new Properties();
             MRUtil.prop.load(new FileInputStream(fileName));
 
-            MRUtil.size_of_inputfile_min = Long.valueOf(MRUtil.prop.getProperty("size_of_inputfile_min"));
-            MRUtil.size_of_inputfile_max = Long.valueOf(MRUtil.prop.getProperty("size_of_inputfile_max"));
+            MRUtil.size_of_inputfile_min = Double.valueOf(MRUtil.prop.getProperty("size_of_inputfile_min"));
+            MRUtil.size_of_inputfile_max = Double.valueOf(MRUtil.prop.getProperty("size_of_inputfile_max"));
 
-            MRUtil.size_of_inputsplit = Long.valueOf(MRUtil.prop.getProperty("size_of_inputsplit"));
+            MRUtil.size_of_inputsplit = Double.valueOf(MRUtil.prop.getProperty("size_of_inputsplit"));
             MRUtil.is_size_dynamic = Integer.valueOf(MRUtil.prop.getProperty("is_size_dynamic"));
             MRUtil.is_gen_workload_ave = Long.valueOf(MRUtil.prop.getProperty("is_gen_workload_ave"));
            // MRUtil.mapper_num = Long.valueOf(MRUtil.prop.getProperty("mapper_num"));

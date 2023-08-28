@@ -71,7 +71,7 @@ public class FSHost extends ComputeHost {
         long inputNum = MRUtil.num_of_inputfiles;
         //指定数分だけ入力ファイルを生成し，そしてリストへ入れる．
         int dyamicValue = MRUtil.is_size_dynamic;
-        long splitSize = -1;
+        double splitSize = -1d;
         if(dyamicValue ==0){
             this.isSizeDynamic = false;
             splitSize = MRUtil.size_of_inputsplit;
@@ -82,7 +82,7 @@ public class FSHost extends ComputeHost {
         //入力ファイルごとのループ
         for(int i=0;i<inputNum;i++){
             //入力ファイルサイズを決める．
-            long fileSize = MRUtil.genLong(MRUtil.size_of_inputfile_min, MRUtil.size_of_inputfile_max);
+            double fileSize = MRUtil.genDouble(MRUtil.size_of_inputfile_min, MRUtil.size_of_inputfile_max);
             //キーの種類数
             long keyKindsNum = MRUtil.genLong2(MRUtil.in_record_num_of_kinds_keys_min, MRUtil.in_record_num_of_kinds_keys_max,
                     MRUtil.dist_in_record_num_of_kinds_keys, MRUtil.dist_in_record_num_of_kinds_mu);
@@ -90,7 +90,7 @@ public class FSHost extends ComputeHost {
             MRMgr.getIns().setKeyKindsNum(keyKindsNum);
 //System.out.println("Initial Key Num:"+keyKindsNum);
 
-            InputFile inFile = new InputFile(new Long(i), fileSize, keyKindsNum);
+            InputFile inFile = new InputFile(i, fileSize, keyKindsNum);
             //次に，inputSplitを生成する．
             if(!isSizeDynamic){
 
@@ -98,11 +98,11 @@ public class FSHost extends ComputeHost {
                 //inputsplitサイズが固定なので，個数がわかる．
                 //レコードリストの生成
                 //まずは，inputSplit生成する．
-                InputSplit inSplit = new InputSplit(new Long(0), splitSize, keyKindsNum);
+                InputSplit inSplit = new InputSplit(0, splitSize, keyKindsNum);
                 //入力ファイルのsplitリストに追加する．
                 inFile.getSplitList().add(inSplit);
-                long leftSize = fileSize - splitSize;
-                long totalSize = splitSize;
+                double leftSize = fileSize - splitSize;
+                double totalSize = splitSize;
                 long cnt = 1;
                 while(leftSize >0){
                     //まずはサイズを決める．

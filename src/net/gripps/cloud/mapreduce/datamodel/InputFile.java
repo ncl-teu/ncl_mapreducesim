@@ -20,7 +20,7 @@ public class InputFile implements Serializable {
     /**
      * ファイルサイズ(MB)
      */
-    private long size;
+    private double size;
 
     /**
      * InputSplitのリスト
@@ -48,7 +48,7 @@ public class InputFile implements Serializable {
      */
    // private long inputSplitSize;
 
-    public InputFile(long id, long size, long kindNum) {
+    public InputFile(long id, double size, long kindNum) {
         this.fileID = id;
         this.size = size;
         this.splitList = new LinkedList<InputSplit>();
@@ -58,11 +58,11 @@ public class InputFile implements Serializable {
       //  this.inputSplitSize = inputSplitSize;
     }
 
-    public long getSize() {
+    public double getSize() {
         return size;
     }
 
-    public void setSize(long size) {
+    public void setSize(double size) {
         this.size = size;
     }
 
