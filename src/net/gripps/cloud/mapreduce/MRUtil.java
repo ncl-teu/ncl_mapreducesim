@@ -11,6 +11,7 @@ import net.gripps.cloud.mapreduce.datamodel.ShuffleFileSplit;
 import org.apache.commons.math.random.RandomDataImpl;
 
 import java.io.FileInputStream;
+import java.math.BigDecimal;
 import java.util.Properties;
 
 /**
@@ -143,6 +144,14 @@ public class MRUtil extends CloudUtil {
         MRUtil.rDataGen = new RandomDataImpl();
     }
 
+
+    public static double getRoundedValue(double value1) {
+        //  try{
+        BigDecimal value2 = new BigDecimal(String.valueOf(value1));
+        double retValue = value2.setScale(8, BigDecimal.ROUND_HALF_UP).doubleValue();
+        return retValue;
+
+    }
     /**
      * 初期化処理
      * @param fileName
