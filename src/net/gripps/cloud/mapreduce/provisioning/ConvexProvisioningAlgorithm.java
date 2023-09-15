@@ -99,7 +99,7 @@ public class ConvexProvisioningAlgorithm extends BaseProvisioningAlgorithm {
         //long A = env.getGlobal_vcpuMap().size();
         //long A =(long) Math.min(this.env.getGlobal_vcpuMap().size(),  Math.ceil(MRUtil.getRoundedValue(inputFileSize / (double)MRUtil.size_of_inputsplit)));
             long A =  (long)Math.ceil(MRUtil.getRoundedValue(inputFileSize / (double)MRUtil.size_of_inputsplit));
-
+        G = Math.abs(G);
         //Mapper数を求める．
         double m = MRUtil.getRoundedValue((-1*A*G + Math.sqrt(Math.pow(A,3) * B * G *k + Math.pow(A,2) * D * G*Math.pow(k,2) + Math.pow(A,3)* G * E*k))/((-1)*G +
                 k*A*B + D*Math.pow(k,2) + A*E*Math.pow(k,2)) );
